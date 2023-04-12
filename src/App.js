@@ -12,7 +12,6 @@ function App() {
     <div className="App">
       
       <Navbar />
-      <Home />
       <div className="container">
         <Routes>
           <Route path="/home" element={<Home />}></Route>
@@ -20,6 +19,7 @@ function App() {
           <Route path="/contact" element={<Contact />}></Route>
         </Routes>
       </div>
+      
       <Footer />
     </div>
   );
