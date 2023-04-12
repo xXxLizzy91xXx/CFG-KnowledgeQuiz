@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CFG-ReactUnicorn/static/css/main.073c9b0a.css",
-    "main.js": "/CFG-ReactUnicorn/static/js/main.dbcda9dc.js",
+    "main.css": "/CFG-ReactUnicorn/static/css/main.413fc6d5.css",
+    "main.js": "/CFG-ReactUnicorn/static/js/main.416438d3.js",
     "index.html": "/CFG-ReactUnicorn/index.html",
-    "main.073c9b0a.css.map": "/CFG-ReactUnicorn/static/css/main.073c9b0a.css.map",
-    "main.dbcda9dc.js.map": "/CFG-ReactUnicorn/static/js/main.dbcda9dc.js.map"
+    "main.413fc6d5.css.map": "/CFG-ReactUnicorn/static/css/main.413fc6d5.css.map",
+    "main.416438d3.js.map": "/CFG-ReactUnicorn/static/js/main.416438d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dbcda9dc.js"
+    "static/css/main.413fc6d5.css",
+    "static/js/main.416438d3.js"
   ]
 }
