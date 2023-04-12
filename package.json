@@ -1,7 +1,7 @@
 {
   "name": "unicorn-app",
   "version": "0.1.0",
-  "homepage": "https://xxxlizzy91xxx.github.io/CFG-ReactUnicorn/",
+  "homepage": "https://xxxlizzy91xxx.github.io/CFG-KnowledgeQuiz/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
