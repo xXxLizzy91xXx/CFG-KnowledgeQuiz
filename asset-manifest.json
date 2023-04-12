@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CFG-KnowledgeQuiz/static/css/main.5456ac37.css",
-    "main.js": "/CFG-KnowledgeQuiz/static/js/main.35fd4a41.js",
+    "main.js": "/CFG-KnowledgeQuiz/static/js/main.c7b06dfe.js",
     "index.html": "/CFG-KnowledgeQuiz/index.html",
     "main.5456ac37.css.map": "/CFG-KnowledgeQuiz/static/css/main.5456ac37.css.map",
-    "main.35fd4a41.js.map": "/CFG-KnowledgeQuiz/static/js/main.35fd4a41.js.map"
+    "main.c7b06dfe.js.map": "/CFG-KnowledgeQuiz/static/js/main.c7b06dfe.js.map"
   },
   "entrypoints": [
     "static/css/main.5456ac37.css",
-    "static/js/main.35fd4a41.js"
+    "static/js/main.c7b06dfe.js"
   ]
 }
