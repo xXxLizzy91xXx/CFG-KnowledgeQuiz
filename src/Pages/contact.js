@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './form.css';
 
-export default function ContactForm() {
+export default function ContactForm(props) {
     const [name, setName] = useState('');
     const [email, setEmail] = useState('');
     const [message, setMessage] = useState('');
@@ -13,7 +13,7 @@ export default function ContactForm() {
 
     return (
         <form onSubmit={handleSubmit}>
-        <h1>Contact Me!</h1>
+        <h1>"Contact Me!"</h1>
         <div>
             <label className="label" htmlFor="name">Name:</label>
             <input type="text" id="name" value={name} onChange={(e) => setName(e.target.value)} />
